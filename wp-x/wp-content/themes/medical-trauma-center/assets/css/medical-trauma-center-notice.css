@@ -1,0 +1,19 @@
+/* NOTICE */
+.medical-trauma-center-theme-info-notice {
+    padding: 10px 0;
+}
+h2.medical-trauma-center-notice-h2 {
+    margin: 0;
+    font-weight: 600;
+    font-size: 1.3em;
+}
+.medical-trauma-center-theme-notice-content {
+    display: flex !important;
+    align-items: center;
+    gap: 30px !important;
+}
+a#medical-trauma-center-themeinfo-button {
+    padding: 5px 10px !important;
+    font-size: 14px;
+    font-weight: 600;
+}

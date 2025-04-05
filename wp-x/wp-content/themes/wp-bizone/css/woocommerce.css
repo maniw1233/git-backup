@@ -1,0 +1,25 @@
+/**
+ * wp-bizone WordPress Theme, ordasvit.com
+ * wp-bizone is distributed under the terms of the GNU GPL
+ * Copyright: OrdaSvit, Andrey Kvasnevskiy, ordasvit.com
+ */
+
+.woocommerce ul.products li.product .button {
+    margin-right: 5px;
+}
+
+.woocommerce ul.products li.product .button:last-of-type {
+    margin-right: 0px;
+}
+
+.woocommerce ul.products li.product .price del {
+    opacity: .9;
+}
+
+.woocommerce ul.products li.product .woocommerce-loop-product__title {
+    text-decoration: underline;
+}
+
+.woocommerce nav.woocommerce-pagination {
+    margin-bottom: 20px;
+}
