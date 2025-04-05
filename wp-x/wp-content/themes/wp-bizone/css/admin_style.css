@@ -1,0 +1,206 @@
+/**
+ * wp-bizone WordPress Theme, ordasvit.com
+ * wp-bizone is distributed under the terms of the GNU GPL
+ * Copyright: OrdaSvit, Andrey Kvasnevskiy, ordasvit.com
+ */
+#accordion-section-wp_bizone_color_theme h3.accordion-section-title:before {
+    content: "\f1fc";
+    font-family: "Font Awesome 5 Free";
+    font-size: 18px;
+    color: #888;
+    position: absolute;
+    left: 5px;
+    top: calc(50% - 15px);
+}
+
+#accordion-section-wp_bizone_advanced_main_menu h3.accordion-section-title:before {
+    content: "\f015";
+    font-family: "Font Awesome 5 Free";
+    font-size: 18px;
+    color: #888;
+    position: absolute;
+    left: 5px;
+    top: calc(50% - 15px);
+}
+
+#accordion-section-wp_bizone_advanced_options h3.accordion-section-title:before {
+    content: "\f19a";
+    font-family: "Font Awesome 5 Brands";
+    font-size: 18px;
+    color: #888;
+    position: absolute;
+    left: 5px;
+    top: calc(50% - 15px);
+}
+
+#accordion-section-wp_bizone_advanced_body_links h3.accordion-section-title:before {
+    content: "\f06c";
+    font-family: "Font Awesome 5 Free";
+    font-size: 18px;
+    color: #888;
+    position: absolute;
+    left: 5px;
+    top: calc(50% - 15px);
+}
+
+#accordion-section-wp_bizone_advanced_footer_links h3.accordion-section-title:before {
+    content: "\f149";
+    font-family: "Font Awesome 5 Free";
+    font-size: 18px;
+    color: #888;
+    position: absolute;
+    left: 5px;
+    top: calc(50% - 15px);
+}
+
+#accordion-section-wp_bizone_advanced_body h3.accordion-section-title:before {
+    content: "\f14c";
+    font-family: "Font Awesome 5 Free";
+    font-size: 18px;
+    color: #888;
+    position: absolute;
+    left: 5px;
+    top: calc(50% - 15px);
+}
+
+#accordion-section-wp_bizone_advanced_body h3.accordion-section-title:before {
+    content: "\f14c";
+    font-family: "Font Awesome 5 Free";
+    font-size: 18px;
+    color: #888;
+    position: absolute;
+    left: 5px;
+    top: calc(50% - 15px);
+}
+
+#accordion-section-wp_bizone_advanced_typography h3.accordion-section-title:before {
+    content: "\f031";
+    font-family: "Font Awesome 5 Free";
+    font-size: 18px;
+    color: #888;
+    position: absolute;
+    left: 5px;
+    top: calc(50% - 15px);
+}
+
+#accordion-section-title_tagline h3.accordion-section-title:before {
+    content: "\f1dd";
+    font-family: "Font Awesome 5 Free";
+    font-size: 18px;
+    color: #888;
+    position: absolute;
+    left: 5px;
+    top: calc(50% - 15px);
+}
+
+#accordion-section-colors h3.accordion-section-title:before {
+    content: "\f1fb";
+    font-family: "Font Awesome 5 Free";
+    font-size: 18px;
+    color: #888;
+    position: absolute;
+    left: 5px;
+    top: calc(50% - 15px);
+}
+
+#accordion-section-header_image h3.accordion-section-title:before {
+    content: "\f0f3";
+    font-family: "Font Awesome 5 Free";
+    font-size: 18px;
+    color: #888;
+    position: absolute;
+    left: 5px;
+    top: calc(50% - 15px);
+}
+
+#accordion-section-nav h3.accordion-section-title:before {
+    content: "\f0b2";
+    font-family: "Font Awesome 5 Free";
+    font-size: 18px;
+    color: #888;
+    position: absolute;
+    left: 5px;
+    top: calc(50% - 15px);
+}
+
+#accordion-panel-widgets h3.accordion-section-title:before {
+    content: "\f0db";
+    font-family: "Font Awesome 5 Free";
+    font-size: 18px;
+    color: #888;
+    position: absolute;
+    left: 5px;
+    top: calc(50% - 15px);
+}
+
+#accordion-section-static_front_page h3.accordion-section-title:before {
+    content: "\f022";
+    font-family: "Font Awesome 5 Free";
+    font-size: 18px;
+    color: #888;
+    position: absolute;
+    left: 5px;
+    top: calc(50% - 15px);
+}
+
+#accordion-section-wp_bizone_advanced_social_links h3.accordion-section-title:before {
+    content: "\f099";
+    font-family: "Font Awesome 5 Brands";
+    font-size: 18px;
+    color: #888;
+    position: absolute;
+    left: 5px;
+    top: calc(50% - 15px);
+}
+
+#accordion-section-wp_bizone_advanced_copyright h3.accordion-section-title:before {
+    content: "\f1f9";
+    font-family: "Font Awesome 5 Free";
+    font-size: 18px;
+    color: #888;
+    position: absolute;
+    left: 5px;
+    top: calc(50% - 15px);
+}
+
+#accordion-section-wp_bizone_advanced_mail_top h3.accordion-section-title:before {
+    content: "\f0e0";
+    font-family: "Font Awesome 5 Free";
+    font-size: 18px;
+    color: #888;
+    position: absolute;
+    left: 5px;
+    top: calc(50% - 15px);
+}
+
+#accordion-section-wp_bizone_advanced_top_menu h3.accordion-section-title:before {
+    content: "\f3bf";
+    font-family: "Font Awesome 5 Free";
+    font-size: 18px;
+    color: #888;
+    position: absolute;
+    left: 5px;
+    top: calc(50% - 15px);
+}
+
+#accordion-section-wp_bizone_advanced_footer_menu h3.accordion-section-title:before {
+    content: "\f3be";
+    font-family: "Font Awesome 5 Free";
+    font-size: 18px;
+    color: #888;
+    position: absolute;
+    left: 5px;
+    top: calc(50% - 15px);
+}
+
+[id*="accordion-section-wp_bizone"] .accordion-section-title button,
+#accordion-section-title_tagline .accordion-section-title button,
+#accordion-section-colors .accordion-section-title button,
+#accordion-panel-widgets .accordion-section-title button,
+#accordion-section-static_front_page .accordion-section-title button {
+    padding-left: 35px;
+}
+
+.accordion-section-title button.accordion-trigger {
+    height: auto;
+}

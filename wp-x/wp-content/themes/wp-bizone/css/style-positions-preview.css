@@ -1,0 +1,19 @@
+/**
+ * wp-bizone WordPress Theme, ordasvit.com
+ * wp-bizone is distributed under the terms of the GNU GPL
+ * Copyright: OrdaSvit, Andrey Kvasnevskiy, ordasvit.com
+ */
+
+.show_theme_position {
+  background: #000;
+  text-align: center;
+  color: #fff;
+  padding: 10px;
+  margin: 10px 0 0;
+  border-radius: 5px;
+  box-shadow: 0px 0px 5px #fff;
+  font-size: 18px;
+  line-height: 1;
+  border-bottom-left-radius: unset;
+  border-bottom-right-radius: unset;
+}

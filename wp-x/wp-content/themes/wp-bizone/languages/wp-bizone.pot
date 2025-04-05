@@ -1,0 +1,627 @@
+# Copyright (C) 2023 ordasvit
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: wp sport club 1.0.0\n"
+"Report-Msgid-Bugs-To: https://ordasvit.com/support/forum\n"
+"MIME-Version: 1.0\n"
+"Last-Translator: Andrey Kvasnevskiy\n"
+"Language-Team: OrdaSvit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-10-04T07:12:44+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.8.1\n"
+"X-Domain: wp-sport-club\n"
+
+#. Theme Name of the theme
+msgid "wp sport club"
+msgstr ""
+
+#. Theme URI of the theme
+msgid "https://ordasvit.com/wordpress-themes/sport-club-sports-wordpress-theme"
+msgstr ""
+
+#. Description of the theme
+msgid "wp sport club - is a premium sports WordPress theme customized especially to suit fitness club and gym websites. It is perfect to showcase services, make a blog, keep in touch with clients and also run an online store based on WooCommerce - powerful eCommerce solution for WordPress."
+msgstr ""
+
+#. Author of the theme
+msgid "ordasvit"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://ordasvit.com"
+msgstr ""
+
+#: 404.php:8
+msgid "Not found"
+msgstr ""
+
+#: 404.php:15
+msgid "This is somewhat embarrassing, isn&rsquo;t it?"
+msgstr ""
+
+#: 404.php:18
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+
+#: archive.php:21
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: archive.php:23
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: archive.php:23
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: archive.php:25
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: archive.php:25
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: archive.php:27
+msgid "Archives"
+msgstr ""
+
+#: author-bio.php:9
+msgid "About %s"
+msgstr ""
+
+#: author-bio.php:13
+msgid "View all posts by %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: author.php:18
+msgid "All posts by %s"
+msgstr ""
+
+#. Template Name of the theme
+msgid "Category"
+msgstr ""
+
+#: comments.php:8
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:28
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:29
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:30
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:35
+msgid "Comments are closed."
+msgstr ""
+
+#: content-aside.php:3
+#: content-audio.php:14
+#: content-image.php:13
+#: content-link.php:14
+#: content-quote.php:3
+#: content-status.php:3
+#: content-video.php:13
+#: content.php:38
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: content-aside.php:4
+#: content-audio.php:15
+#: content-chat.php:14
+#: content-image.php:14
+#: content-link.php:15
+#: content-quote.php:4
+#: content-status.php:4
+#: content-video.php:14
+#: content.php:39
+msgid "Pages:"
+msgstr ""
+
+#: content-aside.php:10
+#: content-aside.php:18
+#: content-audio.php:21
+#: content-chat.php:19
+#: content-image.php:25
+#: content-link.php:9
+#: content-quote.php:15
+#: content-status.php:9
+#: content-video.php:25
+msgid "Edit"
+msgstr ""
+
+#: content-image.php:22
+#: content-quote.php:12
+#: content-video.php:22
+msgid "Leave a comment"
+msgstr ""
+
+#: content-image.php:22
+#: content-quote.php:12
+#: content-video.php:22
+msgid "One comment so far"
+msgstr ""
+
+#: content-image.php:22
+#: content-quote.php:12
+#: content-video.php:22
+msgid "View all % comments"
+msgstr ""
+
+#: content-none.php:2
+msgid "Nothing Found"
+msgstr ""
+
+#: content-none.php:8
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: content-none.php:12
+msgid "Sorry, but nothing matched your search terms. Please try again with different keywords."
+msgstr ""
+
+#: content-none.php:17
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+#: functions.php:47
+msgid "Sticky"
+msgstr ""
+
+#. Translators: used between list items, there is a space after the comma.
+#: functions.php:53
+#: functions.php:59
+msgid ", "
+msgstr ""
+
+#: functions.php:69
+msgid "View all posts by %s"
+msgstr ""
+
+#: functions.php:87
+msgctxt "1: post format name. 2: date"
+msgid "%1$s on %2$s"
+msgstr ""
+
+#: functions.php:94
+msgid "Permalink to %s"
+msgstr ""
+
+#: functions.php:168
+msgid "Primary menu"
+msgstr ""
+
+#: functions.php:169
+msgid "Top menu"
+msgstr ""
+
+#: functions.php:170
+msgid "Footer menu"
+msgstr ""
+
+#: functions.php:179
+msgid "Blue Quote"
+msgstr ""
+
+#: functions.php:254
+msgid "<span class=\"nav-short\">Prev</span>"
+msgstr ""
+
+#: functions.php:265
+msgid "<span class=\"nav-short\">Next</span>"
+msgstr ""
+
+#: functions.php:375
+msgid "widget for title and text"
+msgstr ""
+
+#: functions.php:430
+msgid "widget Statistic"
+msgstr ""
+
+#. Template Name of the theme
+msgid "Main"
+msgstr ""
+
+#: inc/back-compat.php:29
+#: inc/back-compat.php:41
+#: inc/back-compat.php:56
+msgid "wp-sport-club requires at least WordPress version 3.6. You are running version %s. Please upgrade and try again."
+msgstr ""
+
+#: inc/custom-header.php:38
+msgctxt "header image description"
+msgid "Circle"
+msgstr ""
+
+#: inc/custom-header.php:43
+msgctxt "header image description"
+msgid "Diamond"
+msgstr ""
+
+#: inc/custom-header.php:48
+msgctxt "header image description"
+msgid "Star"
+msgstr ""
+
+#: inc/template-positions.php:14
+msgid "SideBar Left"
+msgstr ""
+
+#: inc/template-positions.php:16
+msgid "Appears in the left column of the site."
+msgstr ""
+
+#: inc/template-positions.php:32
+msgid "SideBar Right"
+msgstr ""
+
+#: inc/template-positions.php:34
+msgid "Appears in the right column of the site."
+msgstr ""
+
+#: inc/template-positions.php:50
+#: inc/template-positions.php:51
+msgid "header_position_cart"
+msgstr ""
+
+#: inc/template-positions.php:66
+msgid "position_left_header"
+msgstr ""
+
+#: inc/template-positions.php:67
+msgid "Position: position_left_header"
+msgstr ""
+
+#: inc/template-positions.php:82
+msgid "position_center_left_header"
+msgstr ""
+
+#: inc/template-positions.php:83
+msgid "Position: position_center_left_header"
+msgstr ""
+
+#: inc/template-positions.php:98
+msgid "position_center_right_header"
+msgstr ""
+
+#: inc/template-positions.php:99
+msgid "Position: position_center_right_header"
+msgstr ""
+
+#: inc/template-positions.php:114
+msgid "position_right_header"
+msgstr ""
+
+#: inc/template-positions.php:115
+msgid "Position: position_right_header"
+msgstr ""
+
+#: inc/template-positions.php:130
+msgid "Top: Left"
+msgstr ""
+
+#: inc/template-positions.php:131
+msgid "Position: Top Left"
+msgstr ""
+
+#: inc/template-positions.php:146
+#: inc/template-positions.php:147
+msgid "Top: Left -> Center"
+msgstr ""
+
+#: inc/template-positions.php:162
+#: inc/template-positions.php:163
+msgid "Top: Right -> Center"
+msgstr ""
+
+#: inc/template-positions.php:178
+msgid "Top: Right"
+msgstr ""
+
+#: inc/template-positions.php:179
+msgid "Position Top Right"
+msgstr ""
+
+#: inc/template-positions.php:194
+#: inc/template-positions.php:195
+msgid "Line 1 Left"
+msgstr ""
+
+#: inc/template-positions.php:210
+#: inc/template-positions.php:211
+msgid "Line 1 Left Center"
+msgstr ""
+
+#: inc/template-positions.php:226
+#: inc/template-positions.php:227
+msgid "Line 1 Right Center"
+msgstr ""
+
+#: inc/template-positions.php:242
+#: inc/template-positions.php:243
+msgid "Line 1 Right"
+msgstr ""
+
+#: inc/template-positions.php:258
+#: inc/template-positions.php:259
+msgid "Line 2 Left"
+msgstr ""
+
+#: inc/template-positions.php:274
+#: inc/template-positions.php:275
+msgid "Line 2 Left Center"
+msgstr ""
+
+#: inc/template-positions.php:290
+#: inc/template-positions.php:291
+msgid "Line 2 Right Center"
+msgstr ""
+
+#: inc/template-positions.php:306
+#: inc/template-positions.php:307
+msgid "Line 2 Right"
+msgstr ""
+
+#: inc/template-positions.php:322
+#: inc/template-positions.php:323
+msgid "Line 3 Left"
+msgstr ""
+
+#: inc/template-positions.php:338
+#: inc/template-positions.php:339
+msgid "Line 3 Left Center"
+msgstr ""
+
+#: inc/template-positions.php:354
+#: inc/template-positions.php:355
+msgid "Line 3 Right Center"
+msgstr ""
+
+#: inc/template-positions.php:370
+#: inc/template-positions.php:371
+msgid "Line 3 Right"
+msgstr ""
+
+#: inc/template-positions.php:386
+#: inc/template-positions.php:387
+msgid "Line 4 Left"
+msgstr ""
+
+#: inc/template-positions.php:402
+#: inc/template-positions.php:403
+msgid "Line 4 Left Center"
+msgstr ""
+
+#: inc/template-positions.php:418
+#: inc/template-positions.php:419
+msgid "Line 4 Right Center"
+msgstr ""
+
+#: inc/template-positions.php:434
+#: inc/template-positions.php:435
+msgid "Line 4 Right"
+msgstr ""
+
+#: inc/template-positions.php:450
+#: inc/template-positions.php:451
+msgid "Center Left"
+msgstr ""
+
+#: inc/template-positions.php:466
+#: inc/template-positions.php:467
+msgid "Center Left Position"
+msgstr ""
+
+#: inc/template-positions.php:483
+#: inc/template-positions.php:484
+msgid "Center Right Position"
+msgstr ""
+
+#: inc/template-positions.php:500
+msgid "Center Right"
+msgstr ""
+
+#: inc/template-positions.php:501
+msgid "Position Top Four"
+msgstr ""
+
+#: inc/template-positions.php:516
+#: inc/template-positions.php:517
+msgid "Line 5 Left"
+msgstr ""
+
+#: inc/template-positions.php:532
+#: inc/template-positions.php:533
+msgid "Line 5 Left Center"
+msgstr ""
+
+#: inc/template-positions.php:548
+#: inc/template-positions.php:549
+msgid "Line 5 Right Center"
+msgstr ""
+
+#: inc/template-positions.php:564
+#: inc/template-positions.php:565
+msgid "Line 5 Right"
+msgstr ""
+
+#: inc/template-positions.php:580
+#: inc/template-positions.php:581
+msgid "Line 6 Left"
+msgstr ""
+
+#: inc/template-positions.php:596
+#: inc/template-positions.php:597
+msgid "Line 6 Left Center"
+msgstr ""
+
+#: inc/template-positions.php:612
+#: inc/template-positions.php:613
+msgid "Line 6 Right Center"
+msgstr ""
+
+#: inc/template-positions.php:628
+#: inc/template-positions.php:629
+msgid "Line 6 Right"
+msgstr ""
+
+#: inc/template-positions.php:644
+#: inc/template-positions.php:645
+msgid "Line 7 Left"
+msgstr ""
+
+#: inc/template-positions.php:660
+#: inc/template-positions.php:661
+msgid "Line 7 Left Center"
+msgstr ""
+
+#: inc/template-positions.php:676
+#: inc/template-positions.php:677
+msgid "Line 7 Right Center"
+msgstr ""
+
+#: inc/template-positions.php:692
+#: inc/template-positions.php:693
+msgid "Line 7 Right"
+msgstr ""
+
+#: inc/template-positions.php:708
+#: inc/template-positions.php:709
+msgid "Line 8 Left"
+msgstr ""
+
+#: inc/template-positions.php:724
+#: inc/template-positions.php:725
+msgid "Line 8 Left Center"
+msgstr ""
+
+#: inc/template-positions.php:740
+#: inc/template-positions.php:741
+msgid "Line 8 Right Center"
+msgstr ""
+
+#: inc/template-positions.php:756
+#: inc/template-positions.php:757
+msgid "Line 8 Right"
+msgstr ""
+
+#: inc/template-positions.php:772
+#: inc/template-positions.php:773
+msgid "Line 9 Left"
+msgstr ""
+
+#: inc/template-positions.php:788
+#: inc/template-positions.php:789
+msgid "Line 9 Left Center"
+msgstr ""
+
+#: inc/template-positions.php:804
+#: inc/template-positions.php:805
+msgid "Line 9 Right Center"
+msgstr ""
+
+#: inc/template-positions.php:820
+#: inc/template-positions.php:821
+msgid "Line 9 Right"
+msgstr ""
+
+#: inc/template-positions.php:837
+#: inc/template-positions.php:838
+msgid "Bottom: Left"
+msgstr ""
+
+#: inc/template-positions.php:853
+#: inc/template-positions.php:854
+msgid "Bottom: Left -> Center"
+msgstr ""
+
+#: inc/template-positions.php:869
+#: inc/template-positions.php:870
+msgid "Bottom: Right -> Center"
+msgstr ""
+
+#: inc/template-positions.php:885
+#: inc/template-positions.php:886
+msgid "Bottom: Right"
+msgstr ""
+
+#. translators: %s: Publish date.
+#: inc/template-tags.php:27
+msgid "Published %s"
+msgstr ""
+
+#. translators: %s: Author name.
+#: inc/template-tags.php:47
+msgid "By %s"
+msgstr ""
+
+#: inc/template-tags.php:75
+msgctxt "Label for sticky posts"
+msgid "Featured post"
+msgstr ""
+
+#. translators: %s: Post title. Only visible to screen readers.
+#: inc/template-tags.php:90
+#: inc/template-tags.php:131
+msgid "Edit %s"
+msgstr ""
+
+#. translators: %s: List of categories.
+#: inc/template-tags.php:105
+msgid "Categorized as %s"
+msgstr ""
+
+#. translators: %s: List of tags.
+#: inc/template-tags.php:114
+#: inc/template-tags.php:161
+msgid "Tagged %s"
+msgstr ""
+
+#: inc/template-tags.php:231
+msgid "Page"
+msgstr ""
+
+#: inc/template-tags.php:237
+msgid "Newer <span class=\"nav-short\">posts</span>"
+msgstr ""
+
+#: inc/template-tags.php:248
+msgid "Older <span class=\"nav-short\">posts</span>"
+msgstr ""
+
+#. Template Name of the theme
+msgid "Single"
+msgstr ""
+
+#: single.php:60
+msgid "NEWS NOT FOUND"
+msgstr ""
+
+#: tag.php:19
+msgid "Tag Archives: %s"
+msgstr ""
+
+#: taxonomy-post_format.php:19
+msgid "%s Archives"
+msgstr ""
+
+#: templates/short-post.php:57
+msgid "NOT FOUND"
+msgstr ""

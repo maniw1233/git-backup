@@ -1,0 +1,216 @@
+{
+    "$schema": "https://schemas.wp.org/trunk/theme.json",
+    "version": 2,
+    "settings": {
+        "appearanceTools": true,
+        "border": {
+            "color": true,
+            "radius": true,
+            "style": true,
+            "width": true
+        },
+        "color": {
+            "background": true,
+            "custom": true,
+            "customDuotone": true,
+            "customGradient": true,
+            "defaultGradients": true,
+            "defaultPalette": true,
+            "duotone": [
+                {
+                    "colors": [
+                        "#ffffff",
+                        "#000000"
+                    ],
+                    "slug": "black-and-white",
+                    "name": "Black and white"
+                }
+            ],
+            "gradients": [
+                {
+                    "gradient": "linear-gradient(90deg,rgb(38,255,0) 0%,rgb(0,0,0) 100%)",
+                    "slug": "green-to-black",
+                    "name": "Green to black"
+                }
+            ],
+            "link": true,
+            "palette": [
+                {
+                    "color": "#000000",
+                    "slug": "black",
+                    "name": "Black"
+                },
+                {
+                    "color": "#ffffff",
+                    "slug": "white",
+                    "name": "White"
+                },
+                {
+                    "color": "#ff0000",
+                    "slug": "red",
+                    "name": "Red"
+                },
+                {
+                    "color": "#0021ff",
+                    "slug": "blue",
+                    "name": "Blue"
+                },
+                {
+                    "color": "#0dff00",
+                    "slug": "green",
+                    "name": "Green"
+                },
+                {
+                    "color": "#fffc00",
+                    "slug": "yellow",
+                    "name": "Yellow"
+                },
+                {
+                    "color": "#ff9900",
+                    "slug": "orange",
+                    "name": "Orange"
+                },
+                {
+                    "color": "#b5b5b5",
+                    "slug": "gray",
+                    "name": "Gray"
+                },
+                {
+                    "color": "#df6a69",
+                    "slug": "pink",
+                    "name": "Pink"
+                },
+                {
+                    "color": "#292f33",
+                    "slug": "dark-gray",
+                    "name": "Dark-gray"
+                },
+                {
+                    "color": "#346473",
+                    "slug": "dark-blue",
+                    "name": "Dark-blue"
+                }
+            ],
+            "text": true
+        },
+        "custom": {
+            "spacing": {},
+            "typography": {
+                "fontSize": {},
+                "lineHeight": {}
+            }
+        },
+        "layout": {
+            "contentSize": "800px",
+            "wideSize": "1000px"
+        },
+        "spacing": {
+            "blockGap": true,
+            "margin": true,
+            "padding": true,
+            "units": [
+                "px",
+                "em",
+                "rem",
+                "vh",
+                "vw"
+            ]
+        },
+        "typography": {
+            "customFontSize": true,
+            "dropCap": true,
+            "fontFamilies": [],
+            "fontSizes": [
+                {
+                    "name": "Small",
+                    "size": "12px",
+                    "slug": "small"
+                },
+                {
+                    "name": "Normal",
+                    "size": "16px",
+                    "slug": "normal"
+                },
+                {
+                    "name": "Big",
+                    "size": "20",
+                    "slug": "big"
+                },
+                {
+                    "name": "Very big",
+                    "size": "30",
+                    "slug": "very-big"
+                },
+                {
+                    "name": "Large",
+                    "size": "42",
+                    "slug": "large"
+                }
+            ],
+            "fontStyle": true,
+            "fontWeight": true,
+            "letterSpacing": true,
+            "lineHeight": true,
+            "textDecoration": true,
+            "textTransform": true
+        }
+    },
+    "styles": {
+        "border": {
+            "color": "",
+            "radius": "",
+            "style": "",
+            "width": ""
+        },
+        "color": {
+            "background": "",
+            "gradient": "",
+            "text": ""
+        },
+        "filter": {
+            "duotone": ""
+        },
+        "spacing": {
+            "blockGap": "",
+            "margin": {
+                "top": "",
+                "right": "",
+                "bottom": "",
+                "left": ""
+            },
+            "padding": {
+                "top": "",
+                "right": "",
+                "bottom": "",
+                "left": ""
+            }
+        },
+        "typography": {
+            "fontFamily": "",
+            "fontSize": "",
+            "fontStyle": "",
+            "fontWeight": "",
+            "letterSpacing": "",
+            "lineHeight": "",
+            "textDecoration": "",
+            "textTransform": ""
+        },
+        "elements": {
+            "link": {
+                "border": {},
+                "color": {},
+                "spacing": {},
+                "typography": {}
+            },
+            "h1": {},
+            "h2": {},
+            "h3": {},
+            "h4": {},
+            "h5": {},
+            "h6": {}
+        },
+        "css": " .statisticsNumber, .custom-white-space{ white-space: normal !important;}"
+    },
+    "customTemplates": [],
+    "templateParts": []
+}
